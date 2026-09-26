@@ -1,0 +1,49 @@
+{
+  "overrides": {
+    "147993020": "https://raw.githubusercontent.com/d1343243423234/233434/main/rekk.mp3",
+    "131538272": "https://raw.githubusercontent.com/d1343243423234/233434/main/selff.mp3"
+  },
+  "insertions": {
+    "40565920": [
+      {
+        "id": "147993020",
+        "index": 4
+      }
+    ],
+    "24922639": [
+      {
+        "id": "131538272",
+        "index": 10
+      }
+    ]
+  },
+  "meta": {
+    "147993020": {
+      "title": "реквием2000",
+      "cover": "avatars.yandex.net/get-music-content/17722696/1ebadc7a.a.40565920-6/%%",
+      "durationMs": 128910,
+      "artists": [
+        {
+          "id": "5824240",
+          "name": "CMH"
+        }
+      ]
+    },
+    "131538272": {
+      "title": "Сэлфхарм",
+      "cover": "avatars.yandex.net/get-music-content/13911897/f6a1a383.a.24922639-2/%%",
+      "durationMs": 153000,
+      "artists": [
+        {
+          "id": "5824240",
+          "name": "CMH"
+        },
+        {
+          "id": "4622988",
+          "name": "Слава КПСС"
+        }
+      ]
+    }
+  },
+  "repos": []
+}
